@@ -1,0 +1,45 @@
+# Node.js / npm
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json  # optional - agar yarn use kar rahe ho to ise rakh sakte ho
+yarn.lock          # optional
+
+# Vite / React build output
+dist/
+.vite/
+vite.config.js.cache
+
+# Logs
+logs/
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Netlify / Vercel specific
+.netlify/
+.vercel/
+
+# Optional: agar tests ya coverage generate karte ho
+coverage/
