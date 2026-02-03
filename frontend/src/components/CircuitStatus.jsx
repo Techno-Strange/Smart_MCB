@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import "./circuitStatus.css";
 
-const BACKEND_URL = "http://localhost:3000";
+const BACKEND_URL = "https://smart-mcb-1.onrender.com/";
 
 export default function CircuitStatus() {
   const [mcbStates, setMcbStates] = useState([false, false, false, false, false, false]);

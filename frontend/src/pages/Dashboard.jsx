@@ -8,7 +8,7 @@ import Header from "../components/Header";
 import BottomNav from "../components/BottomNav";
 import "../styles/dashboard.css"; // optional custom dashboard styles
 
-const BACKEND_URL = "http://localhost:3000";
+const BACKEND_URL = "https://smart-mcb-1.onrender.com/";
 
 export default function Dashboard() {
   const [sensorData, setSensorData] = useState({

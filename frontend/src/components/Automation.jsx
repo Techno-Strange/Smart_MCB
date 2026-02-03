@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import "./automation.css";
 
-const BACKEND_URL = "http://localhost:3000";
+const BACKEND_URL = "https://smart-mcb-1.onrender.com/";
 
 export default function Automation() {
   // Motion Detection

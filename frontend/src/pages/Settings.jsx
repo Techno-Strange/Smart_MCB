@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import "../styles/settings.css";
 
-const BACKEND_URL = "http://localhost:3000";
+const BACKEND_URL = "https://smart-mcb-1.onrender.com/";
 
 export default function Settings({ onLogout }) {
   // Sensor monitoring toggles
