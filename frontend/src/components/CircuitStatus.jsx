@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-import "./circuitStatus.css";
+import "./circuitstatus.css";
 
 const BACKEND_URL = "https://smart-mcb-1.onrender.com/";
 
