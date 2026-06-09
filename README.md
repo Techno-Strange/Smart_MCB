@@ -103,15 +103,15 @@ User → Web Dashboard → Backend Server → ESP32 Controller
 
 ### Dashboard
 
-![Dashboard](Nashik hackathon/Screenshort(892).png)
+![Screenshort (892)](Nashik hackathon/Screenshort (892).png)
 
 ### Logs & Voice Commands
 
-![Logs](Nashik hackathon/Screenshort(893).png)
+![Screenshort (893)](Nashik hackathon/Screenshort (893).png)
 
 ### Face Recognition Monitoring
 
-![Recognition](Nashik hackathon/Screenshort(894).png)
+![Screenshort (894)](Nashik hackathon/Screenshort (894).png)
 
 ---
 
